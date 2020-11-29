@@ -1,4 +1,6 @@
 // Esqueleto da classe na qual devem ser implementadas as novas funcionalidades de desenho
+//Ivanlis Nascimento da Costa
+//10257750
 
 public class ImageEx extends Image {
 

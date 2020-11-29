@@ -1,3 +1,6 @@
+//Ivanlis Nascimento da Costa
+//10257750
+
 import java.awt.*;
 import java.awt.image.*;
 import javax.imageio.*;
